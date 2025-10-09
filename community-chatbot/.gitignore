@@ -30,4 +30,3 @@ next-env.d.ts
 *.pem
 __pycache__/
 *.sql
-*.py
