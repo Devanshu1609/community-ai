@@ -2,7 +2,7 @@
 
 python scripts/github_agent.py &
 
-python scripts/jira.py &
+python scripts/jira_agent.py &
 
 python scripts/slack.py &
 
