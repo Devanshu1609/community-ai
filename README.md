@@ -126,4 +126,4 @@ We welcome your ideas, bug reports, and contributions!
 ## Links and Resources
 
 For more information about Mifos and Fineract, 
-visit [Mifos](https://mifos.org/) or join our [Mifos Slack Channel](https://mifos.slack.com/)
+visit [Mifos](https://mifos.org/) or join our [AI working group](https://join.slack.com/share/enQtOTY2NTIzNDI0MjI5MC02YzhjMzc1NzhhMjM2OTZhNWQ4YWZkYWY0MWFmNTQxNmE4Yjg2ZDM4YWI4YzJmYzczYTQwNzk2NjAzNDgxMTc5)

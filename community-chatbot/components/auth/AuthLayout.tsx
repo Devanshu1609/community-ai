@@ -5,6 +5,7 @@ import Image from 'next/image';
 import {
   Card, CardContent, CardDescription, CardHeader, CardTitle,
 } from '@/components/ui/card';
+import { LayoutProps } from '@/types/auth/types';
 
 export function AuthLayout({
 	title,
